@@ -1,2 +1,1 @@
-Talha Ansari Pokeamone
-website
+https://kahanselaon.github.io/pokimon/
